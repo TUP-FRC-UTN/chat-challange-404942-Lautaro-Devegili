@@ -11,3 +11,4 @@ Se debe manejar la comunicación entre los componentes de manera que cada vez qu
 Notas:
 - Debe utilizar bootstrap.
 - Se debe respetar la estructura solicitada.
+s
